@@ -32,7 +32,7 @@ The first project at 42, libft, involves learning how the standard functions of 
 ## HOW TO USE
 #### 1º - Clone the repository
 ```bash
-git clone git@github.com:koraymullaoglu/libft.git 
+git clone https://github.com/MepCity/42_libft.git 
 ```
 
 #### 2º - Enter the project folder and run `make`
