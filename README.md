@@ -27,7 +27,7 @@
 The first project at 42, libft, involves learning how the standard functions of C programming work by writing them from scratch and creating a personal library. This project is vital as the library will be used in future assignments at 42.
 
 
-- [Subject](https://github.com/koraymullaoglu/libft/blob/master/subject/en.subject_libft.pdf) `PDF`
+- [Subject](https://github.com/MepCity/42_libft/tree/main/subject) `PDF`
 
 ## HOW TO USE
 #### 1º - Clone the repository
